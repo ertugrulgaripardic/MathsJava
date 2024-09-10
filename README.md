@@ -1,7 +1,6 @@
 
 import java.util.Scanner;
 
-
 public class Vec {
     private String isim;
     private int i;
